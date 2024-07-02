@@ -41,9 +41,9 @@ We do not sell, trade, or otherwise transfer your personal information to outsid
 - To trusted third parties who assist us in operating our app, conducting our business, or serving our users, so long as those parties agree to keep this information confidential.
 - When required by law or to protect our rights, property, or safety.
 
-## Data Security
+## Data Storage and Security
 
-We implement a variety of security measures to maintain the safety of your personal information. Your account information is protected by a password of your choosing. We encourage you to choose a strong password and not share it with anyone.
+We use Amazon Web Services (AWS) to store and process your data. AWS provides a secure environment with comprehensive security measures to protect your information. Your account information is protected by a password of your choosing. We encourage you to choose a strong password and not share it with anyone.
 
 ## Your Choices
 
@@ -60,7 +60,7 @@ We may update this Privacy Policy from time to time. If we make significant chan
 
 ## Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at moniguccijp@gmail.com.
+If you have any questions or concerns about this Privacy Policy, please contact us at moniguccijp@gmail.com
 
 ---
 

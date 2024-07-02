@@ -47,7 +47,7 @@ Transform your karaoke sessions with SHUB. Download now and start singing your p
 ---
 
 ### Contact Us
-For support or inquiries, please reach out to us at [moniguccijp@gmail.com][moniguccijp@gmail.com].
+For support or inquiries, please reach out to us at [moniguccijp@gmail.com]
 
 ---
 

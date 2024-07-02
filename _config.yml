@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Discover SHUB, the AI-powered karaoke app that tailors song recommendations
   to your vocal range, genre, and decade preferences. Save favorites and share
   with friends!
-baseurl: /shusb.ai # the subpath of your site, e.g. /blog
+baseurl: /shub.ai # the subpath of your site, e.g. /blog
 url: "https://haruki-m.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username:  haruki-m

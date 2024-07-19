@@ -47,7 +47,7 @@ We use Amazon Web Services (AWS) to store and process your data. AWS provides a 
 
 ## Your Choices
 
-- **Account Information**: You can update or delete your account information at any time by accessing your account settings within the app.
+- **Account Information**: You can update or delete your account information at any time by accessing your account settings within the app. If deleting your account, all data associated to your account (email address, profile picture, and name) will be deleted.
 - **Email Communications**: You can opt out of receiving promotional emails by following the unsubscribe instructions provided in those emails.
 
 ## Children's Privacy
